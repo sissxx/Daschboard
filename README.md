@@ -6,6 +6,7 @@
 
 2. Install node modules
 -> npm i
+-> npm start
 
 3. Testing Unit
 -> npm test
